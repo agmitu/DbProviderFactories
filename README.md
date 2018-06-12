@@ -1,2 +1,1 @@
 # DbProviderFactories
-.NetFramework DbProviderFactories
