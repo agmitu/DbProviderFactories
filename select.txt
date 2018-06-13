@@ -1,4 +1,3 @@
-git testaaaaaaaaaaaaaaaaaasssssssssssssss
 
 
 SELECT TT01_SHINKU,
